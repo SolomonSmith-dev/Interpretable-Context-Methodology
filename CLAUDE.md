@@ -41,3 +41,7 @@ model-workspace-protocol/
 ## How It Works
 
 Each workspace is self-contained with its own CLAUDE.md. Navigate into a workspace folder and that workspace's CLAUDE.md takes over. You do not need to read this root file once you are inside a workspace.
+
+## ICM / Graphify
+
+When `graphify-out/graph.json` exists, answer codebase questions with `graphify query "<q>"` (also `path` / `explain`) before grep or explore agents. Rebuild with `graphify update` after large structural changes. Dual Develop: Hermes-first product build; Cursor for git/PR/evals/parallel. No secrets in commits or docs. Ops spine: `~/Projects/personal-tech-ops`.
