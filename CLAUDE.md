@@ -26,6 +26,7 @@ model-workspace-protocol/
 | Create content with script-to-animation | `workspaces/script-to-animation/CLAUDE.md` |
 | Build course slide decks from source material | `workspaces/course-deck-production/CLAUDE.md` |
 | Build a new workspace for any domain | `workspaces/workspace-builder/CLAUDE.md` |
+| Run Solomon Dev OS staged work | `workspaces/solomon-dev-os/CLAUDE.md` |
 | Read the full MWP specification | `_core/CONVENTIONS.md` |
 | Understand the placeholder system | `_core/placeholder-syntax.md` |
 | Use a template for a new workspace | `_core/templates/` |
